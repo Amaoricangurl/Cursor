@@ -1,0 +1,9 @@
+{
+  // ... other configurations ...
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "dev": "tsc -w"
+  }
+  // ... other configurations ...
+}
